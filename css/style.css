@@ -1,3 +1,8 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
 .navbar {
     background-color: blue;
 }
@@ -9,4 +14,5 @@
 .margin{
     margin-top: 30px;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
